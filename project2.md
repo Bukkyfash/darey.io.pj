@@ -1,1 +1,10 @@
 # WEB STACK IMPLEMENTATION (LEMP STACK)
+![Project 2 Step 1](https://github.com/Bukkyfash/darey.io.pj/assets/134983920/161b77f2-e754-438f-86e6-98d1a23caed3)
+![Project 2 step 1b](https://github.com/Bukkyfash/darey.io.pj/assets/134983920/a8238f4b-c1c5-4d66-8455-e141bcd2f4ba)
+![Project 2 Step 3](https://github.com/Bukkyfash/darey.io.pj/assets/134983920/a7c384fd-2def-4d14-8d8b-6dddcb8771f0)
+![Project 2 step 3b](https://github.com/Bukkyfash/darey.io.pj/assets/134983920/1f5bef44-25da-4ff6-b779-ffd420352cbd)
+![Project 2 Step 4   5](https://github.com/Bukkyfash/darey.io.pj/assets/134983920/78ee78de-3874-4818-b397-11b1fdd10aab)
+![Project 2 Step 6a](https://github.com/Bukkyfash/darey.io.pj/assets/134983920/551493f4-f6f5-4642-ba0f-bb24225727a7)
+![Project 2 step 6b](https://github.com/Bukkyfash/darey.io.pj/assets/134983920/55c587af-7bbd-4bdb-914b-4cfe422871c0)
+![Project 2 Step 6c](https://github.com/Bukkyfash/darey.io.pj/assets/134983920/166c66d6-95bf-4f11-9241-f5bb57b0c4e5)
+![Project 2 Step 6c (2)](https://github.com/Bukkyfash/darey.io.pj/assets/134983920/8665f15d-147b-4a0f-b449-97d430e3aa54
